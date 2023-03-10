@@ -1,0 +1,279 @@
+@media screen and (max-width:2000px){
+    
+
+
+
+
+body{
+    font-size: x-large;
+}
+#list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.playstore{
+    height: 15%;
+}
+.googleplay{
+height: 15%;
+
+}
+.quote{
+    height: 3%;
+    width: 3%;
+}
+
+
+.message{
+    margin: 10%;
+}
+.font{
+    font-family: 'Gentium Plus', serif;
+}
+button{
+    border-radius: 10%;
+    padding: 10px;
+    
+}
+#button3{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+}
+#button4{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+
+}
+#button5{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+
+}
+#button6{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+
+}
+#button7{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+
+}
+#button8{
+    border-style: none;
+    border-radius: 30px;
+     display: inline-block; 
+    padding: 20px;
+    background-color: gold; 
+
+
+}
+
+
+
+
+
+.chicken{
+    float: right;
+    height: 20%;
+    width: 40%;
+}
+.storage{
+    margin-top: 20%;
+    text-align: center;
+}
+.foods{
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.food3 img{
+    width: 365px;
+}
+
+.food4 img{
+    width: 365px;
+}
+.food2 img{
+    width: 250px;
+}
+.food1 img{
+    width: 250px;
+}
+
+ img{
+    width: 200px;
+    height: 300px;
+ }
+
+.food {
+    display: flex;
+    gap: 50px;
+   
+}
+.button{
+    margin-top: 10%;
+    margin: 10%;
+}
+.special{
+    float: right;
+    height: 300px;
+    width: 40%;
+}
+.offers{
+    margin-top: 30%;
+    text-align: center;
+}
+.meals{
+    display: flex;
+    width: 50px;
+    
+
+}
+#few{
+    background-color: chocolate;
+}
+
+.image1{
+width:500px ;
+height: 150px;
+display: flex;
+
+}
+.image1 img{
+    width: 400px;
+}
+.image2{
+    width: 400px;
+    height: 150px;
+    display: flex;
+
+}
+.image2 img{
+    width: 400px;
+}
+.image3{
+    width: 300px;
+    /* height: 200px; */
+    display: flex;
+}
+.image3 img{
+    width: 300px;
+}
+.service{
+    margin-top: 15%;
+    text-align: center;
+    
+}
+.person{
+    width: 900px;
+
+}
+.quality{
+    display: flex;
+}
+.image5{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+.image5 img{
+    width: 300px;
+}
+.image6{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+.image6 img{
+    width: 300px;
+
+}
+.image7{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+.image7 img{
+    width: 300px;
+}
+.image8{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+.image8 img{
+    width: 300px;
+}
+.client{
+    text-align: center;
+    
+}
+.phone1 img{
+    height: 700px;
+    width: 500px;
+}
+.phone{
+    display: flex;
+}
+.subscribe{
+    display: flex;
+
+}
+.email{
+    display: flex;
+    margin-left: 20%;
+  
+  margin-top: 5%;
+}
+#subscribes{
+    margin-top: 10px;
+    padding: 20px;
+        border-style: none;
+        border-radius: 30px;
+         display: inline-block; 
+        background-color: gold; 
+            
+}
+.all{
+    display: flex;
+    gap: 10%;
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+    
+    
+ }
+
+
+
+
+
+
+
+
+
+
